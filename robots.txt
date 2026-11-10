@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kz-artadvisory.com/sitemap.xml
